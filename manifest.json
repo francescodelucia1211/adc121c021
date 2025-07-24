@@ -1,0 +1,8 @@
+{
+  "domain": "adc121c021",
+  "name": "ADC121C021 I2C ADS",
+  "version": "1.0",
+  "dependencies": [],
+  "codeowners": ["@francescodelucia1211"],
+  "requirements": []
+}
